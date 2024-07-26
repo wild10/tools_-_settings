@@ -1,0 +1,47 @@
+{
+	"caret_extra_bottom": 0,
+	"caret_extra_top": 0,
+	"caret_extra_width": 5,
+	"caret_style": "phase",
+	"color_scheme": "ayu-light.sublime-color-scheme",
+	"font_face": "Consolas",
+	"font_options":
+	[
+	],
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "ayu-light.sublime-theme",
+	"update_check": false,
+	"wide_caret": true,
+	    "multiAlign_break_at_empty_lines": true,
+    "multiAlign_break_at_non_matching_lines": true,
+    "multiAlign_align_chars": [
+        {
+            "char": "=",
+            "alignment":       "right",
+            "spaces_left":     1,
+            "spaces_right":    1,
+        }
+	],
+	"scope": "source.python",
+    "completions": [
+        "def",
+        "class",
+        "None",
+        "True",
+        "False"
+	],
+	"indent_guide_options": [
+        "draw_normal",
+        "solid"
+	],
+	"line_padding_bottom": 3,
+    "line_padding_top": 3,
+    "overlay_scroll_bars": "disabled",
+	"index_files": true,
+	// Adds a single vertical ruler at column 80
+	"rulers":[80],
+}
